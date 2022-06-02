@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/curriculo/static/css/main.2f3b84ed.css",
+    "main.js": "/curriculo/static/js/main.658d25ce.js",
+    "static/js/787.c1112931.chunk.js": "/curriculo/static/js/787.c1112931.chunk.js",
+    "static/media/tumblr-2885846_960_720.png": "/curriculo/static/media/tumblr-2885846_960_720.299fed1444a72ef6ae65.png",
+    "static/media/CV.pdf": "/curriculo/static/media/CV.4b55bf229064dcf77174.pdf",
+    "static/media/imagem.png": "/curriculo/static/media/imagem.4952e269fd3747ddf1ff.png",
+    "index.html": "/curriculo/index.html",
+    "main.2f3b84ed.css.map": "/curriculo/static/css/main.2f3b84ed.css.map",
+    "main.658d25ce.js.map": "/curriculo/static/js/main.658d25ce.js.map",
+    "787.c1112931.chunk.js.map": "/curriculo/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f3b84ed.css",
+    "static/js/main.658d25ce.js"
+  ]
+}
